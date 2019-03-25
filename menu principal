@@ -5,11 +5,11 @@
   "menu": [
  {
       "title": "Peliculas",
-      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+      "link": "https://tinyurl.com/pelislexa4"
     },
     {
       "title": "Series",
-      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+      "link": "https://tinyurl.com/serieslexa4
     }
 ]
 }
