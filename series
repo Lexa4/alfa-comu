@@ -1,0 +1,28 @@
+{
+  "tvshows_list": [
+    { "title":"titlo de la serie",
+      "seasons_list": [
+        {
+          "season": "numero de la temporada (por ejemplo "1")",
+          "link": "ruta o url del json que contiene los episodios de esta temporada"
+        },
+        {"season":"2",
+         "link":"ruta o url del json que contiene los episodios de esta temporada"
+        },
+        {"season":".. se agregan las necesaria repitiendo la estructura y separando con ,",
+        "link":"ruta o url del json que contiene los episodios de esta temporada"
+        }
+      ]
+    },
+    { "title":"titlo de otra serie",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "ruta o url del json que contiene los episodios de esta temporada"
+        },
+        {"season":"2",
+         "link":"ruta o url del json que contiene los episodios de esta temporada"
+        }
+      ]
+    }
+  ]
