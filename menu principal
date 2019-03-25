@@ -1,0 +1,13 @@
+
+
+{
+  "channel_name": "Lexa4 Playlist [Español latino]",
+  "menu": [
+ {
+      "title": "Peliculas",
+      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+    },
+    {
+      "title": "Series",
+      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+    }
