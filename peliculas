@@ -5,40 +5,12 @@
     {
       "title": "Triple frontera",
       "year": "2018(opcional)",
-      "language":"Inglés(opcional)"
+      "language":"Inglés(opcional)",
       "quality": "480p(opcional)",
       "links": [
         {
           "url": "https://powvideo.net/xp75lk3m48n2",
           "language": "Latino(opcional)",
-          "quality":"720p (opcional)"
+          "quality":"720p (opcional)",
         },
-        {
-          "url": "otra url de la película opcionales, se pueden agregar tantos links como se deseen, repitiendo la estructura y separando por ,",
-          "language": "idioma (opcional)",
-          "quality":"calidad (opcional)"
-        }
-      ]
-    },
-    {
-      "title": "titulo de otra la película o vídeo, se pueden agregar tantos como se desee, repitiendo la estructura y separando por ,",
-      "year": "año de la película (opcional)",
-      "language":"idioma(opcional)"
-      "quality": "calidad(opcional)",
-      "links": [
-        {
-          "url": "url de la película",
-          "language": "idioma (opcional)",
-          "quality":"calidad (opcional)"
-        },
-        {
-          "url": "(opcional) Otra url de la película , se pueden agregar tantos links como se deseen, repitiendo la estructura y separando por ,",
-          "language": "idioma (opcional)",
-          "quality":"calidad (opcional)"
-        }
-      ]
-    }
-  ]
-
-}
-
+       
