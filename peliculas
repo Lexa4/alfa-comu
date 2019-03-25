@@ -3,7 +3,7 @@
     {
       "title": "Triple frontera",
       "year": "2018(opcional)",
-      "language":"Inglés(opcional)"
+      "language":"Inglés(opcional)",
       "quality": "480p(opcional)",
       "links": [
         {
@@ -31,7 +31,7 @@
         },
         {
           "url": "(opcional) Otra url de la película , se pueden agregar tantos links como se deseen, repitiendo la estructura y separando por ,",
-          "language": "idioma (opcional)",,
+          "language": "idioma (opcional)",
           "quality":"calidad (opcional)",
         }
       ]
